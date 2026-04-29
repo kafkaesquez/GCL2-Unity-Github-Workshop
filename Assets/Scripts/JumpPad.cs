@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerSlowPatrol : MonoBehaviour
+public class JumpPad : MonoBehaviour
 {
     private float bounce = 15f;
 
